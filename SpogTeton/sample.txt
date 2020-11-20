@@ -1,0 +1,12 @@
+{
+	sharefolder={
+		path=path, 
+		password=123456,
+		shared_folder_type=jdnfnd,
+		username=useraja
+		}, 
+	site_id=001,
+	lbs_id=lbsid,
+	rps_id=rpsid
+}
+

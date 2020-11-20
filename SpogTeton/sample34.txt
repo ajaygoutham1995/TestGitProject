@@ -1,0 +1,32 @@
+{
+client_type=UDP_CLIENT_UNKNOWN, 
+	machine_info={
+	hostName=sample, 
+	hostUuid=12354,
+	serverName=sjcnjncjz,
+	serverUuid=65432,
+	socketCount=0,
+	serverSocketCount=0,
+	jobId=0, 
+	jobType=0,
+	policyUUID=jdnvkjfn453423 
+	}, 
+	required_feature=0
+}
+
+{
+  "client_type": "UDP_CLIENT_UNKNOWN",
+  "machine_info": {
+    "hostName": "string",
+    "hostUuid": "string",
+    "serverName": "string",
+    "serverUuid": "string",
+    "socketCount": 0,
+    "serverSocketCount": 0,
+    "jobId": 0,
+    "jobType": 0,
+    "policyUUID": "string",
+    "vmName": "string"
+  },
+  "required_feature": 0
+}

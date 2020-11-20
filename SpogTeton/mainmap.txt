@@ -1,0 +1,16 @@
+{
+	product_type=jwdjkwjkdk,
+	source_product=jwdjkwjkdk,
+	organization_id=jwdjkwjkdk,
+	connection_status=jwdjkwjkdk,
+	os_major=jwdjkwjkdk,
+	site_id=jwdjkwjkdk,
+	 	
+	 	udp_vm={
+	 	hypervisor_id=jwdjkwjkdk,
+	 	vm_name=jwdjkwjkdk
+	 	}, 
+	 source_type=jwdjkwjkdk,
+	 source_id=jwdjkwjkdk,
+	 source_name=jwdjkwjkdk
+	 }

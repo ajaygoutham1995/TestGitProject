@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="36" started-at="2020-09-16T19:28:02 IST" finished-at="2020-09-16T19:28:02 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="36" started-at="2020-09-16T19:28:02 IST" finished-at="2020-09-16T19:28:02 IST">
+      <class name="com.tests.GettingSourcesudpdetails">
+        <test-method status="PASS" signature="testmethod_200(java.lang.String, int)[pri:1, instance:com.tests.GettingSourcesudpdetails@67784306]" name="testmethod_200" duration-ms="8" started-at="2020-09-16T19:28:02 IST" data-provider="data" finished-at="2020-09-16T19:28:02 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Valid- something is valid]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[200]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testmethod_200 -->
+        <test-method status="PASS" signature="testmethod_200(java.lang.String, int)[pri:1, instance:com.tests.GettingSourcesudpdetails@67784306]" name="testmethod_200" duration-ms="1" started-at="2020-09-16T19:28:02 IST" data-provider="data" finished-at="2020-09-16T19:28:02 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Invalid- somthing is in valid]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[400]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testmethod_200 -->
+        <test-method status="PASS" signature="testmethod2_400(java.lang.String, int)[pri:2, instance:com.tests.GettingSourcesudpdetails@67784306]" name="testmethod2_400" duration-ms="1" started-at="2020-09-16T19:28:02 IST" data-provider="data" finished-at="2020-09-16T19:28:02 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Valid- something is valid]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[200]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testmethod2_400 -->
+        <test-method status="PASS" signature="testmethod2_400(java.lang.String, int)[pri:2, instance:com.tests.GettingSourcesudpdetails@67784306]" name="testmethod2_400" duration-ms="1" started-at="2020-09-16T19:28:02 IST" data-provider="data" finished-at="2020-09-16T19:28:02 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Invalid- somthing is in valid]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[400]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testmethod2_400 -->
+      </class> <!-- com.tests.GettingSourcesudpdetails -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
